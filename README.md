@@ -1,6 +1,7 @@
 # MAST30034_Assignment1
+[Assignment Specification](https://www.overleaf.com/read/hjqkfcthbrbq)
 
-Report link: https://www.overleaf.com/read/dpcsnvxggqsr
+Coding work done for Assignment 1 of Applied Data Science (MAST30034). Involves generating, manipulating, visualising and analysing geospatiol time series.
 
 Requirements: numpy, seaborn, matplotlib, scipy, sklearn.
 
